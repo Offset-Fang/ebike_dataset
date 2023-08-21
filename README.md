@@ -77,7 +77,7 @@ You are free to use this dataset for research, analysis, visualization, and othe
 
 Here's a simple example of how you can load and visualize the dataset using Python:
 
-
+```python
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -90,7 +90,7 @@ plt.xlabel('Ride Duration (minutes)')
 plt.ylabel('Frequency')
 plt.title('E-Bike Ride Duration Distribution')
 plt.show()
-
+```
 
 ## Battery
 Motor & Large Battery：This e-bike comprises a 250W powerful brushless motor with 50N.M torque that provides with constant and strong power and enables the bike to speed up to 25km/h. With a replaceable 450Wh lithium-ion battery, it can run up to 100km(62mi) in assist mode.
